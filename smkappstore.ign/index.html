@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SMK App Store</title>
+
+    <!-- CSS-->
+    <!-- BOTSTRAP CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <!-- MAIN CSS -->
+    <link href="assets/css/main.css" rel="stylesheet">
+
+    <!-- JS-->
+    <!-- JQUERY JS -->
+    <script type="text/javascript" src="assets/js/jquery.js"></script>
+    <!-- BOOTSTRAP JS -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <!--IGN.JS-->
+    <!--<script type="text/javascript" src="qrc:///js/ign.js"></script>-->
+    <!-- MAIN JS -->
+    <script src="assets/js/main.js"></script>
+
+    </head>
+<body>
+
+    <!-- NAVIGATION -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">SMK App Store</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="javascript:void(0)" onclick="jurusanApp('tkj')">TKJ</a></li>
+                    <li><a href="javascript:void(0)" onclick="jurusanApp('tgb')">TGB</a></li>
+                    <li><a href="javascript:void(0)" onclick="jurusanApp('tkbb')">TKBB</a></li>
+                    <li><a href="javascript:void(0)" onclick="jurusanApp('tei')">TEI</a></li>
+                    <li><a href="javascript:void(0)" onclick="jurusanApp('tav')">TAV</a></li>
+                    <li><a href="javascript:void(0)" onclick="jurusanApp('tiptl')">TIPTL</a></li>
+                    <li><a href="javascript:void(0)" onclick="jurusanApp('tme')">TME</a></li>
+                    <li><a href="javascript:void(0)" onclick="jurusanApp('tp')">TP</a></li>
+                    <li><a href="javascript:void(0)" onclick="jurusanApp('tkr')">TKR</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav><!-- NAVIGATION -->
+
+    <div class="container">
+      <div class="row">
+          <div class="col-lg-12">
+              <h1 class="page-header"><span id="head-jurusan">Daftar</span>
+                  <span id="low-jurusan"><small>App</small></span>
+              </h1>
+          </div>
+      </div>
+
+      <!-- LIST APLIKASI  -->
+      <div class="row">
+        <div id="aplikasi">
+
+        </div>
+      </div>
+
+        <hr>
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <a href="#" data-toggle="modal" data-target="#modalTentang">Tentang SMK App Store</a>
+                </div>
+            </div>
+        </footer>
+
+        <!--MODAL-->
+        <!--modal tentang app-->
+        <div class="modal fade" id="modalTentang" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-body">
+                <h3>Tentang SMK App Store</h3><br/>
+                <img src="icons/app.png" alt="icon smkappstore" style="max-height:100px"><br/><br/>
+                <p>SMK App Store merupakan perangkat lunak utilitas yang berfungsi sebagai wadah dan <i>installer</i> untuk berbagai perangkat lunak khusus Sekolah Menengah Kejuruan (SMK). Untuk saat ini terpadat 9 jurusan yaitu TKJ, TGB, TKBB, TEI, TAV, TIPTL, TME, TP dan TKR.
+                </p>
+                <p>Dibuat diatas kode HTML, Javascript, JQuery dan Bootstrap yang di <i>compile</i> dengan IGNSDK.
+                </p>
+                <ul>
+                  <li>Pengembang   : Team StembaOS &lt;dev@stembaos.com&gt;</li>
+                  <li>Versi  : v1.0.0</li>
+                  <li>Lisensi  : GNU GPL v3</li>
+                </ul>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Tutup</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!---->
+        <!-- modal appmodal -->
+        <div class="modal fade" id="modalApp" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <div id="apps_detail"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!----><!--modal-->
+
+    </div>
+</body>
+</html>

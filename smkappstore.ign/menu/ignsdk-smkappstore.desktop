@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=SMK App Store
+Exec=/usr/bin/ignsdk -p /opt/ignsdk/smkappstore.ign
+Icon=/opt/ignsdk/smkappstore.ign/icons/app.png
+Terminal=false
+Type=Application
+Categories=Utility

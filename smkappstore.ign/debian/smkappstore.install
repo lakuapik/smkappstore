@@ -1,0 +1,6 @@
+index.html /opt/ignsdk/smkappstore.ign/
+icons/ /opt/ignsdk/smkappstore.ign/
+assets/ /opt/ignsdk/smkappstore.ign/
+menu/ignsdk-smkappstore.desktop /usr/share/applications/
+app.spec /opt/ignsdk/smkappstore.ign/
+ignsdk.json /opt/ignsdk/smkappstore.ign/

@@ -1,0 +1,277 @@
+{
+  "dataApp": [
+    {
+      "id": 1,
+      "name": "Oracle VM VirtualBox",
+      "desc": "Virtualbox merupakan produk aplikasi virtualisasi yang handal untuk jaringan enterprise maupun untuk kalangan non-enterprise. Tak hanya memiliki banyak fitur yang canggih, Virtualbox juga satu-satunya solusi gratis perangkat lunak virtualisasi yang tersedia dengan lisensi GNU GPL yang dikembangkan oleh Oracle.",
+      "nick": "virtualbox",
+      "kat": "tkj"
+    },
+    {
+      "id": 2,
+      "name": "FileZilla",
+      "desc": "FileZilla adalah salah satu software FTP Client gratis, open source dan cross-platform. Perangkat lunak ini tersedia untuk Windows, Linux, dan Mac OS X. Mendukung teknologi FTP, SFTP, dan FTPS (FTP di SSL/TLS). Sejak 5 Maret 2009, software ini adalah software kelima yang paling banyak diunduh sepanjang masa dari SourceForge.net.",
+      "nick": "filezilla",
+      "kat": "tkj"
+    },
+    {
+      "id": 3,
+      "name": "Greenfoot",
+      "desc": "Greenfoot merupakan perangkat lunak yang dirancang supaya pembelajaran pemrograman menjadi mudah dan menyenangkan. Greenfoot didesain untuk pemula agar dapat terbiasa dengan Pemrograman Berorientasi Objek (Object-Oriented Programming), yang mendukung pengembangan aplikasi bergambar dengan memakai bahasa pemrograman Java™.",
+      "nick": "greenfoot",
+      "kat": "tkj"
+    },
+    {
+      "id": 4,
+      "name": "Netbeans IDE",
+      "desc": "Netbeans merupakan perangkat lunak IDE yang mendukung banyak pemprograman. Kembangkan aplikasi web, desktop, dan mobile dengan cepat dan mudah dengan Java, Javascript, HTML5, PHP, C/C++, dan lainnya. Netbeans IDE tersedia secara gratis, open source, dan memiliki banyak komunitas pengembang di berbagai belahan dunia.",
+      "nick": "netbeans",
+      "kat": "tkj"
+    },
+    {
+      "id": 5,
+      "name": "Sublime Text 2",
+      "desc": "Sublime Text merupakan perangkat lunak pengedit teks yang canggih untuk coding. Anda akan menyukai antarmuka yang cantik, dengan fitur menarik dan performa yang kuat. Digunakan oleh pengembang professional di seluruh dunia.",
+      "nick": "sublimetext",
+      "kat": "tkj"
+    },
+    {
+      "id": 6,
+      "name": "GNS 3",
+      "desc": "GNS3 menawarkan cara mudah untuk mendesain dan membangun jaringan dengan segala ukuran tanpa memerlukan perangkat tambahan apapun. Bangun, Desain, dan Uji jaringan anda dalam environment virtual yang bebas resiko dan akses komunitas networking terbesar untuk membantu Anda. entah anda ingin belajar untuk ujian jaringan pertama anda atau membangun jaringan telekomunikasi yang luas. Dan ini GRATIS!!",
+      "nick": "gns3",
+      "kat": "tkj"
+    },
+    {
+      "id": 7,
+      "name": "Cisco Packet Tracer",
+      "desc": "Packet Tracer merupakan aplikasi desain jaringan dari Cisco System. Cara terbaik untuk mempelajari jaringan adalah dengan mempraktekkannya. Cisco Packet Tracer alat inovasi konfigurasi jaringan, membantu Anda untuk mengasah kemampuan konfigurasi jaringan dengan perangkat desktop maupun perangkat mobile.",
+      "nick": "packettracer",
+      "kat": "tkj"
+    },
+    {
+      "id": 8,
+      "name": "Wireshark",
+      "desc": "Wireshark merupakan alat analisa jaringan yang paling banyak digunakan. Aplikasi ini memungkinkan anda untuk melihat apa yang terjadi pada jaringan anda dalam level yang mikroskopis dan secara defacto merupakan standar yang banyak digunakan di perusahaan dan pemerintahan seerta institusi pendidikan.",
+      "nick": "wireshark",
+      "kat": "tkj"
+    },
+    {
+      "id": 9,
+      "name": "Blender",
+      "desc": "Blender adalah Aplikasi desain kreasi 3D open source. Mendukung keseluruhan modeling 3D-Pipeline, rigging, animasi, simulasi, rendering, komposisi, dan motion-tracking. bahkan edit video dan kreasi game.",
+      "nick": "blender",
+      "kat": "tkj"
+    },
+    {
+      "id": 10,
+      "name": "Atom",
+      "desc": "Atom adalah editor teks yang modern, mudah dipakai, dan paling bisa disesuaikan dengan pengguna. Banyak sekali plugin tambahan yang dapat mempermudah Anda dalam membangun aplikasi. Tersedia secara gratis dan open source yang memungkinkan Anda membuat versi atom sendiri.",
+      "nick": "atom",
+      "kat": "tkj"
+    },
+    {
+      "id": 11,
+      "name": "LAMPP",
+      "desc": "LAMPP adalah paket web service di Linux. Dinamakan sesuai dengan singkatannya: Linux Apache MySQL Php Perl. Secara sepaket akan memasang Apache HTTP Server, database MySQL, Phpmyadmin, dan pemproses bahasa pemprograman PHP dan Perl.",
+      "nick": "lampp",
+      "kat": "tkj"
+    },
+    {
+      "id": 12,
+      "name": "GIP",
+      "desc": "GIP atau Gnome IP Calculator adalah perangkat lunak kalkulator khusus ip address dan subnetting. Tersedia secara Graphical User Interface dan mudah digunakan serta mudah dipahami.",
+      "nick": "gip",
+      "kat": "tkj"
+    },
+    {
+      "id": 13,
+      "name": "PuTTY",
+      "desc": "PuTTY adalah perangkat open source untuk melakukan remote protokol seraca GUI. Mendukung protokol jaringan seperti SSH, Telnet, Console dan Rlogin.",
+      "nick": "putty",
+      "kat": "tkj"
+    },
+    {
+      "id": 14,
+      "name": "Basic 256",
+      "desc": "BASIC-256 adalah salah satu wadah pemprograman yang Anda dapat membuat aplikasi komputer Anda sendiri. BASIC-256 bertujuan untuk mengenalkan dan sekaligus belajar dasar pemprograman komputer, khususnya untuk anak sekolah menengah umum. Kunjungi website https://www.rollapp.com/app/basic256",
+      "nick": "basic256",
+      "kat": "tkj"
+    },
+    {
+      "id": 15,
+      "name": "Arduino IDE",
+      "desc": "Arduino IDE memudahkan menulis kode dan mengupload ke board arduino. Tersedia secara open source yang dapat berjalan di Windows, Mac dan Linux. Dibuat diatas Java, lebih lanjut kunjungi website https://www.arduino.cc/en/Main/Software. ",
+      "nick": "arduino",
+      "kat": "tme"
+    },
+    {
+      "id": 16,
+      "name": "Openshot",
+      "desc": "Openshot Video Editor merupakan aplikasi edit video gratis, opensource dan non-linear. Aplikasi ini dapat membuat dan menyunting video dan film dengan bagus dan menakjubkan. Mudah digunakan serta tidak menguras resource komputer Anda.",
+      "nick": "openshot",
+      "kat": "tav"
+    },
+    {
+      "id": 17,
+      "name": "Kdenlive",
+      "desc": "KDenLive merupakan rangkaian software editing video nonlinear, yang mendukung DV, HDV, dan masih banyak format lainnya. Mempunyai banyak fitur video editing dengan performa sangat cepat dan luar biasa dibanding video editor lain",
+      "nick": "kdenlive",
+      "kat": "tav"
+    },
+    {
+      "id": 18,
+      "name": "Audacity",
+      "desc": "Audacity adalah aplikasi pemberi efek suara yang terbaik yang pernah ada di dunia sumber terbuka. Dengan Audacity, pengguna bisa mengoreksi berkas suara tertentu, atau sekadar menambahkan berbagai efek yang disediakan. Selain itu, pengguna juga dapat berkreasi dengan suara yang dimiliki sendiri.",
+      "nick": "audacity",
+      "kat": "tav"
+    },
+    {
+      "id": 19,
+      "name": "Rosegarden",
+      "desc": "Rosegarden adalah aplikasi mengkompose dan mengedit audio berdasarkan MIDI. And editing environment based around a MIDI sequencer that features a rich understanding of music notation and includes basic support for digital audio. Rosegarden is an easy-to-learn, attractive application that runs on Linux, ideal for composers, musicians, music students, and small studio or home recording environments.",
+      "nick": "rosegarden",
+      "kat": "tav"
+    },
+    {
+      "id": 20,
+      "name": "Eagle",
+      "desc": "Eagle adalah aplikasi desain untuk elektronik engineer dari Autodesk. Buat apa saja dengan Autodesk EAGLE. Bawa percikan ide Anda berikutnya ke kehidupan dengan perangkat lunak perancangan PCB yang hebat dan mudah digunakan yang dibuat untuk setiap teknisi.",
+      "nick": "eagle",
+      "kat": "tei"
+    },
+    {
+      "id": 21,
+      "name": "QElectroTech",
+      "desc": "QElectroTech ini aplikasi perancang skematik murni. Aplikasi ini sangat cocok bagi guru yang ingin membuat soal-soal elektronika tanpa memakai aplikasi berbayar semacam Visio atau Multisim. QElectroTech memiliki database komponen yang banyak sekali. Serta, ia memiliki fitur pembuat komponen sendiri yang kita dengannya bisa memasukkan komponen tersebut ke dalam skematik. Sebagai batasan, QElectroTech belum bisa melakukan simulasi dan belum bisa membuat PCB layout.",
+      "nick": "qelectrotech",
+      "kat": "tei"
+    },
+    {
+      "id": 22,
+      "name": "PCB",
+      "desc": "Aplikasi ini dikembangkan khusus untuk melakukan perancangan layout PCB. Aplikasi ini tergolong dalam kelompok gEDA. webiste http://pcb.geda-project.org/index.html.",
+      "nick": "pcb",
+      "kat": "tei"
+    },
+    {
+      "id": 23,
+      "name": "KiCAD",
+      "desc": "Saat ini, aplikasi linux yang paling komplet menggantikan EAGLE hanyalah KiCAD. Ini dikarenakan KiCAD memiliki 2 fitur EAGLE sekaligus yakni schematic dan PCB. KiCAD juga memiliki komunitas yang paling besar saat ini yang banyak menyuplai skematika elektronik serta PCB layout dalam satu tempat yang semuanya gratis diunduh. KiCAD pun sudah digunakan serius untuk membuat board komersial yang bernama Micropendous (semacam Arduino) serta beberapa board lainnya. Bahkan Anda pun boleh mengunduh skematika elektronik + PCB layout-nya.",
+      "nick": "kicad",
+      "kat": "tei"
+    },
+    {
+      "id": 24,
+      "name": "Qucs",
+      "desc": "Qucs adalah aplikasi Multisim yang statis. Dia mampu melakukan simulasi rangkaian tetapi sinyal yang dihasilkan tidak kontinu. Meski demikian, Qucs punya kumpulan simulasi resmi siap pakai yang bisa Anda unduh dan pelajari. Simulasi yang disediakan sangat banyak.",
+      "nick": "qucs",
+      "kat": "tei"
+    },
+    {
+      "id": 25,
+      "name": "Fritzing",
+      "desc": "Fritzing merupakan aplikasi inisiasi hardware open-source yang membuat perangkat elektronik sebagai material kreatif untuk siapa saja. Fritzing  digunakan oleh desainer, seniman, engineer dan para penghobi elektronika untuk perancangan berbagai peralatan elektronika. Biasanya sebelum menggunakan program fritzing mereka akan membuat sebuah prototype dengan menggunakan komponen elektronika yang sebenarnya. ",
+      "nick": "fritzing",
+      "kat": "tei"
+    },
+    {
+      "id": 26,
+      "name": "Gazebo",
+      "desc": "Gazebo adalah aplikasi simulasi robotic yang canggih. Dengan slogan 'Robot Sulation Made Easy' memungkinkan Anda membuat simulasi robotic secara mudah. Di dukung oleh komunitas open-source di seluruh dunia. Mari buat robot sekarang!",
+      "nick": "gazebo",
+      "kat": "tme"
+    },
+    {
+      "id": 27,
+      "name": "Estru3D",
+      "desc": "Program struktur analisis yang menggunakan Metode Stiffness Matrix. Program ini memiliki interface grafik sendiri dan semuanya menggunakan GUI.",
+      "nick": "estru3d",
+      "kat": "tgb"
+    },
+    {
+      "id": 28,
+      "name": "Estru3D",
+      "desc": "Program struktur analisis yang menggunakan Metode Stiffness Matrix. Program ini memiliki interface grafik sendiri dan semuanya menggunakan GUI.",
+      "nick": "estru3d",
+      "kat": "tkbb"
+    },
+    {
+      "id": 29,
+      "name": "SweetHome3D",
+      "desc": "Sweet Home 3D adalah aplikasi yang sempurna untuk membantu menempatkan furnitur di rumah kamu. Jika kamu ingin mendekorasi ulang apartemen atau mengatur ulang furnitur yang ada di dalam ruangan, Sweet Home 3D terbukti menjadi cara termudah untuk melakukanya. Aplikasi ini menyediakan 75 model furnitur yang dapat kamu tempatkan di setiap ruangan. Semua model diatur dalam kategori sesuai dengan penempatan mereka di rumah.",
+      "nick": "sweethome3d",
+      "kat": "tgb"
+    },
+    {
+      "id": 30,
+      "name": "SweetHome3D",
+      "desc": "Sweet Home 3D adalah aplikasi yang sempurna untuk membantu menempatkan furnitur di rumah kamu. Jika kamu ingin mendekorasi ulang apartemen atau mengatur ulang furnitur yang ada di dalam ruangan, Sweet Home 3D terbukti menjadi cara termudah untuk melakukanya. Aplikasi ini menyediakan 75 model furnitur yang dapat kamu tempatkan di setiap ruangan. Semua model diatur dalam kategori sesuai dengan penempatan mereka di rumah.",
+      "nick": "sweethome3d",
+      "kat": "tkbb"
+    },
+    {
+      "id": 31,
+      "name": "FreeCAD",
+      "desc": "FreeCAD adalah Sebuah aplikasi open source untuk membuat pemodelan pada 3D CAD / MCAD / CAX / CAE / PLM. Aplikasi FreeCad ini ditujukan langsung bagi para teknik mesin dan juga para desainer produk, namun secara keselurauhan aplikasi ini juga bisa dipergunakan untuk Proses rekayasa yang lebih luas seperti pada perancangan arsitektur atau pada spesialisasi teknik lainnya.",
+      "nick": "freecad",
+      "kat": "tgb"
+    },
+    {
+      "id": 32,
+      "name": "FreeCAD",
+      "desc": "FreeCAD adalah Sebuah aplikasi open source untuk membuat pemodelan pada 3D CAD / MCAD / CAX / CAE / PLM. Aplikasi FreeCad ini ditujukan langsung bagi para teknik mesin dan juga para desainer produk, namun secara keselurauhan aplikasi ini juga bisa dipergunakan untuk Proses rekayasa yang lebih luas seperti pada perancangan arsitektur atau pada spesialisasi teknik lainnya.",
+      "nick": "freecad",
+      "kat": "tp"
+    },
+    {
+      "id": 33,
+      "name": "LibreCAD",
+      "desc": "LibreCAD adalah Software CAD gratis yang dapat mendesain model 2D dengan sangat baik dengan tampilan yang sangat mudah dimengerti. LibreCad merupakan percabangan dari QCad yang dikembangkan sekitar tahun 2010-an. Qcad sendiri adalah aplikasi Cad 2D yang menyediaka versi gratis dan berbayar. Awalnya LibreCad bernama CADuntu namun, nama tersebut kurang sesuai dan akhirnya diganti dengan LibreCad. Pada awalnya LibreCad dibuat untuk membangun kemampuan pada sisi CAM menggunakan matchmate cnc router.",
+      "nick": "librecad",
+      "kat": "tgb"
+    },
+    {
+      "id": 34,
+      "name": "LibreCAD",
+      "desc": "LibreCAD adalah Software CAD gratis yang dapat mendesain model 2D dengan sangat baik dengan tampilan yang sangat mudah dimengerti. LibreCad merupakan percabangan dari QCad yang dikembangkan sekitar tahun 2010-an. Qcad sendiri adalah aplikasi Cad 2D yang menyediaka versi gratis dan berbayar. Awalnya LibreCad bernama CADuntu namun, nama tersebut kurang sesuai dan akhirnya diganti dengan LibreCad. Pada awalnya LibreCad dibuat untuk membangun kemampuan pada sisi CAM menggunakan matchmate cnc router.",
+      "nick": "librecad",
+      "kat": "tp"
+    },
+    {
+      "id": 35,
+      "name": "LibreCAD",
+      "desc": "LibreCAD adalah Software CAD gratis yang dapat mendesain model 2D dengan sangat baik dengan tampilan yang sangat mudah dimengerti. LibreCad merupakan percabangan dari QCad yang dikembangkan sekitar tahun 2010-an. Qcad sendiri adalah aplikasi Cad 2D yang menyediaka versi gratis dan berbayar. Awalnya LibreCad bernama CADuntu namun, nama tersebut kurang sesuai dan akhirnya diganti dengan LibreCad. Pada awalnya LibreCad dibuat untuk membangun kemampuan pada sisi CAM menggunakan matchmate cnc router.",
+      "nick": "librecad",
+      "kat": "tkbb"
+    },
+    {
+      "id": 36,
+      "name": "Blender",
+      "desc": "Blender adalah Aplikasi desain kreasi 3D open source. Mendukung keseluruhan modeling 3D-Pipeline, rigging, animasi, simulasi, rendering, komposisi, dan motion-tracking. bahkan edit video dan kreasi game.",
+      "nick": "blender",
+      "kat": "tav"
+    },
+    {
+      "id": 37,
+      "name": "FreeCAD",
+      "desc": "FreeCAD adalah Sebuah aplikasi open source untuk membuat pemodelan pada 3D CAD / MCAD / CAX / CAE / PLM. Aplikasi FreeCad ini ditujukan langsung bagi para teknik mesin dan juga para desainer produk, namun secara keselurauhan aplikasi ini juga bisa dipergunakan untuk Proses rekayasa yang lebih luas seperti pada perancangan arsitektur atau pada spesialisasi teknik lainnya.",
+      "nick": "freecad",
+      "kat": "tkr"
+    },
+    {
+      "id": 38,
+      "name": "Qucs",
+      "desc": "Qucs adalah aplikasi Multisim yang statis. Dia mampu melakukan simulasi rangkaian tetapi sinyal yang dihasilkan tidak kontinu. Meski demikian, Qucs punya kumpulan simulasi resmi siap pakai yang bisa Anda unduh dan pelajari. Simulasi yang disediakan sangat banyak.",
+      "nick": "qucs",
+      "kat": "tiptl"
+    },
+    {
+      "id": 39,
+      "name": "Fritzing",
+      "desc": "Fritzing merupakan aplikasi inisiasi hardware open-source yang membuat perangkat elektronik sebagai material kreatif untuk siapa saja. Fritzing  digunakan oleh desainer, seniman, engineer dan para penghobi elektronika untuk perancangan berbagai peralatan elektronika. Biasanya sebelum menggunakan program fritzing mereka akan membuat sebuah prototype dengan menggunakan komponen elektronika yang sebenarnya. ",
+      "nick": "fritzing",
+      "kat": "tiptl"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "config" : {
+		"debug" : true,
+		"websecurity" : true,
+		"name" : "SMK App Store"
+  },
+  "window" : {
+		"transparent" : false,
+		"noframe" : false,
+		"fullscreen" : true,
+		"maximize" : true,
+		"width" : 1024,
+		"height" : 600
+	},
+  "button" : [
+		"back",
+		"reload"
+	]
+}

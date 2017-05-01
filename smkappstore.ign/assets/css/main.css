@@ -1,0 +1,81 @@
+body {
+    padding-top: 70px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+/*sdfsdf*/
+
+
+/* link */
+a{
+	text-decoration: none;}
+
+a:hover {
+	text-decoration: none;}
+
+a:visited {
+	text-decoration: none;}
+/* */
+
+
+.container{
+  margin-top: 15px;
+}
+
+/* navigasi */
+.navbar-default{
+  min-height: 75px;
+  background-color: #29B6F6 ;
+  border: none;
+}
+
+ul .nav .navbar-nav{
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.navbar-default .nav > li > a {
+    color:  #fff;
+    font-size: 20px;
+}
+
+.navbar-default .nav > li > a:hover {
+    color:  #000;
+    font-size: 20px;
+}
+
+.navbar-default .navbar-brand {
+  color:  #fff;
+  font-size: 30px;
+}
+
+/* */
+
+/* modal untuk halaman tentang */
+#modalTentang .modal-dialog{
+  width: 50%;
+}
+/* */
+
+/* modal untuk halaman aplikasi */
+#modalApp .modal-dialog{
+  width: 90%;
+}
+/* */
+
+/* style untuk gambar screnshhot */
+.imgss{
+  width:50%;
+  height:400px;
+  padding: 5px;
+  float:left;
+}
+/* */
